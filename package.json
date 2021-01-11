@@ -1,0 +1,19 @@
+{
+  "name": "big-oauth2-express",
+  "version": "0.1.0",
+  "description": "An express module to easily add the required routes in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpcofficial/big-oauth2-express.git"
+  },
+  "author": "TPC Grp. UK",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tpcofficial/big-oauth2-express/issues"
+  },
+  "homepage": "https://github.com/tpcofficial/big-oauth2-express#readme"
+}
